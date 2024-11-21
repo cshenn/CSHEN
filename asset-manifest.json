@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CSHEN/static/css/main.d4f1fbf3.css",
+    "main.css": "/CSHEN/static/css/main.db412185.css",
     "main.js": "/CSHEN/static/js/main.846ba37c.js",
     "static/media/bear_emoji.png": "/CSHEN/static/media/bear_emoji.b701520534ebd9685345.png",
     "static/media/react.png": "/CSHEN/static/media/react.a802ec4d2b144959241e.png",
@@ -15,11 +15,11 @@
     "static/media/git.png": "/CSHEN/static/media/git.e568d563872b746efff3.png",
     "static/media/rabbit.png": "/CSHEN/static/media/rabbit.72bbc7e899c26ea8f3f8.png",
     "index.html": "/CSHEN/index.html",
-    "main.d4f1fbf3.css.map": "/CSHEN/static/css/main.d4f1fbf3.css.map",
+    "main.db412185.css.map": "/CSHEN/static/css/main.db412185.css.map",
     "main.846ba37c.js.map": "/CSHEN/static/js/main.846ba37c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4f1fbf3.css",
+    "static/css/main.db412185.css",
     "static/js/main.846ba37c.js"
   ]
 }
