@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CSHEN/static/css/main.bda8f106.css",
+    "main.js": "/CSHEN/static/js/main.846ba37c.js",
+    "static/media/bear_emoji.png": "/CSHEN/static/media/bear_emoji.b701520534ebd9685345.png",
+    "static/media/react.png": "/CSHEN/static/media/react.a802ec4d2b144959241e.png",
+    "static/media/trash_logo.png": "/CSHEN/static/media/trash_logo.75337cdeb7825fa2a4e9.png",
+    "static/media/light.png": "/CSHEN/static/media/light.314246c02e6846fa29e3.png",
+    "static/media/java.png": "/CSHEN/static/media/java.c2d5e4bef0567bf6558b.png",
+    "static/media/sql.png": "/CSHEN/static/media/sql.0cab73543139c0f2e3e1.png",
+    "static/media/nodejs.png": "/CSHEN/static/media/nodejs.67aff69f89a10aa1696e.png",
+    "static/media/assembly.png": "/CSHEN/static/media/assembly.816eed41678209e10860.png",
+    "static/media/c.png": "/CSHEN/static/media/c.27c7d7c0e431339ee511.png",
+    "static/media/bash.png": "/CSHEN/static/media/bash.47ba83fc75cbbf2b9948.png",
+    "static/media/git.png": "/CSHEN/static/media/git.e568d563872b746efff3.png",
+    "static/media/rabbit.png": "/CSHEN/static/media/rabbit.72bbc7e899c26ea8f3f8.png",
+    "index.html": "/CSHEN/index.html",
+    "main.bda8f106.css.map": "/CSHEN/static/css/main.bda8f106.css.map",
+    "main.846ba37c.js.map": "/CSHEN/static/js/main.846ba37c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda8f106.css",
+    "static/js/main.846ba37c.js"
+  ]
+}
