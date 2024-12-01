@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CSHEN/static/css/main.eb9b9dde.css",
+    "main.css": "/CSHEN/static/css/main.fce4a3ba.css",
     "main.js": "/CSHEN/static/js/main.d46d686d.js",
     "static/media/bear_emoji.png": "/CSHEN/static/media/bear_emoji.b701520534ebd9685345.png",
     "static/media/help.png": "/CSHEN/static/media/help.8a9bc99caa102c31cffa.png",
@@ -16,11 +16,11 @@
     "static/media/git.png": "/CSHEN/static/media/git.e568d563872b746efff3.png",
     "static/media/rabbit.png": "/CSHEN/static/media/rabbit.72bbc7e899c26ea8f3f8.png",
     "index.html": "/CSHEN/index.html",
-    "main.eb9b9dde.css.map": "/CSHEN/static/css/main.eb9b9dde.css.map",
+    "main.fce4a3ba.css.map": "/CSHEN/static/css/main.fce4a3ba.css.map",
     "main.d46d686d.js.map": "/CSHEN/static/js/main.d46d686d.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb9b9dde.css",
+    "static/css/main.fce4a3ba.css",
     "static/js/main.d46d686d.js"
   ]
 }
