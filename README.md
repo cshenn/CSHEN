@@ -17,7 +17,7 @@ Check out the live version of my portfolio here: [CSHEN Portfolio](https://cshen
 
 ## 🫧 Tech Stack
 
-- **Frontend**: React.js, JavaScript, CSS3
+- **Frontend**: React.js, JavaScript, HTML, CSS3
 - **State Management**: React Hooks
 - **Deployment**: GitHub Pages
 - **Icons**: [Icons8](https://icons8.com)
