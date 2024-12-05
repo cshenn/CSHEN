@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CSHEN/static/css/main.5121c149.css",
-    "main.js": "/CSHEN/static/js/main.24cd52f5.js",
+    "main.css": "/CSHEN/static/css/main.070ad88c.css",
+    "main.js": "/CSHEN/static/js/main.7585702c.js",
     "static/media/bear_emoji.png": "/CSHEN/static/media/bear_emoji.b701520534ebd9685345.png",
     "static/media/help.png": "/CSHEN/static/media/help.8a9bc99caa102c31cffa.png",
     "static/media/react.png": "/CSHEN/static/media/react.a802ec4d2b144959241e.png",
@@ -16,11 +16,11 @@
     "static/media/git.png": "/CSHEN/static/media/git.e568d563872b746efff3.png",
     "static/media/rabbit.png": "/CSHEN/static/media/rabbit.72bbc7e899c26ea8f3f8.png",
     "index.html": "/CSHEN/index.html",
-    "main.5121c149.css.map": "/CSHEN/static/css/main.5121c149.css.map",
-    "main.24cd52f5.js.map": "/CSHEN/static/js/main.24cd52f5.js.map"
+    "main.070ad88c.css.map": "/CSHEN/static/css/main.070ad88c.css.map",
+    "main.7585702c.js.map": "/CSHEN/static/js/main.7585702c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5121c149.css",
-    "static/js/main.24cd52f5.js"
+    "static/css/main.070ad88c.css",
+    "static/js/main.7585702c.js"
   ]
 }
