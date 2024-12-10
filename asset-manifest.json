@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/CSHEN/static/css/main.070ad88c.css",
-    "main.js": "/CSHEN/static/js/main.7585702c.js",
+    "main.css": "/CSHEN/static/css/main.2b63270c.css",
+    "main.js": "/CSHEN/static/js/main.7cbdbaf3.js",
     "static/media/bear_emoji.png": "/CSHEN/static/media/bear_emoji.b701520534ebd9685345.png",
     "static/media/help.png": "/CSHEN/static/media/help.8a9bc99caa102c31cffa.png",
     "static/media/react.png": "/CSHEN/static/media/react.a802ec4d2b144959241e.png",
     "static/media/trash_logo.png": "/CSHEN/static/media/trash_logo.75337cdeb7825fa2a4e9.png",
-    "static/media/light.png": "/CSHEN/static/media/light.314246c02e6846fa29e3.png",
     "static/media/java.png": "/CSHEN/static/media/java.c2d5e4bef0567bf6558b.png",
     "static/media/sql.png": "/CSHEN/static/media/sql.0cab73543139c0f2e3e1.png",
     "static/media/nodejs.png": "/CSHEN/static/media/nodejs.67aff69f89a10aa1696e.png",
@@ -16,11 +15,11 @@
     "static/media/git.png": "/CSHEN/static/media/git.e568d563872b746efff3.png",
     "static/media/rabbit.png": "/CSHEN/static/media/rabbit.72bbc7e899c26ea8f3f8.png",
     "index.html": "/CSHEN/index.html",
-    "main.070ad88c.css.map": "/CSHEN/static/css/main.070ad88c.css.map",
-    "main.7585702c.js.map": "/CSHEN/static/js/main.7585702c.js.map"
+    "main.2b63270c.css.map": "/CSHEN/static/css/main.2b63270c.css.map",
+    "main.7cbdbaf3.js.map": "/CSHEN/static/js/main.7cbdbaf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.070ad88c.css",
-    "static/js/main.7585702c.js"
+    "static/css/main.2b63270c.css",
+    "static/js/main.7cbdbaf3.js"
   ]
 }
