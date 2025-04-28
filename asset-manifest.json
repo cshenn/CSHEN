@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/CSHEN/static/css/main.8f82531d.css",
-    "main.js": "/CSHEN/static/js/main.3bcd7c2c.js",
+    "main.js": "/CSHEN/static/js/main.8ce41fb9.js",
     "static/media/slackr_login.png": "/CSHEN/static/media/slackr_login.23715103415c5ea16451.png",
     "static/media/slackr_create.png": "/CSHEN/static/media/slackr_create.e9853625cc82cbc8fc5d.png",
+    "static/media/ascent_home.png": "/CSHEN/static/media/ascent_home.fa68420572d7824d0d0c.png",
+    "static/media/ascent_puzzle.png": "/CSHEN/static/media/ascent_puzzle.9d515412be6b930fa4a7.png",
     "static/media/tanuki_preview.png": "/CSHEN/static/media/tanuki_preview.5e7d808bca21ea1b299e.png",
+    "static/media/ascent_car.png": "/CSHEN/static/media/ascent_car.475b0e734f3b545ed2bb.png",
     "static/media/quizzie_login.png": "/CSHEN/static/media/quizzie_login.9445b1a944d5cb7b90e5.png",
     "static/media/tanuki_login.png": "/CSHEN/static/media/tanuki_login.4d9de664b1f772a73de7.png",
     "static/media/quizzie_results.png": "/CSHEN/static/media/quizzie_results.abfc9e7a79d4924e8802.png",
@@ -26,10 +29,10 @@
     "static/media/rabbit.png": "/CSHEN/static/media/rabbit.72bbc7e899c26ea8f3f8.png",
     "index.html": "/CSHEN/index.html",
     "main.8f82531d.css.map": "/CSHEN/static/css/main.8f82531d.css.map",
-    "main.3bcd7c2c.js.map": "/CSHEN/static/js/main.3bcd7c2c.js.map"
+    "main.8ce41fb9.js.map": "/CSHEN/static/js/main.8ce41fb9.js.map"
   },
   "entrypoints": [
     "static/css/main.8f82531d.css",
-    "static/js/main.3bcd7c2c.js"
+    "static/js/main.8ce41fb9.js"
   ]
 }
